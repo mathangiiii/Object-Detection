@@ -55,4 +55,11 @@ python objdet.py -i path/to/input/image.jpeg -c path/to/yolo.cfg -w path/to/yolo
 - yolov3.cfg: YOLOv3 configuration file.
 - yolov3.weights: YOLOv3 pre-trained weights file.
 - yolov3.txt: Text file containing class names for detection.
+
+Download YOLOv3 Weights
+
+Download the YOLOv3 weights file using the following command:
+```
+Invoke-WebRequest -Uri "https://pjreddie.com/media/files/yolov3.weights" -OutFile "yolov3.weights"
+```
   
