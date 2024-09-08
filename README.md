@@ -14,14 +14,18 @@ This project utilizes the YOLO (You Only Look Once) object detection algorithm t
 
 1. **Clone the Repository**
 
-   ```bash
+   ```
    git clone https://github.com/yourusername/your-repository-name.git
    cd your-repository-name
 2. **Create a Virtual Environment (Optional but recommended)**
 
+```
 python -m venv venv
+```
 Activate the Virtual Environment
+```
 Windows:
-  - \venv\Scripts\Activate
+  \venv\Scripts\Activate
 macOS/Linux:
-  - source venv/bin/activate
+  source venv/bin/activate
+```
