@@ -49,6 +49,7 @@ python objdet.py -i path/to/input/image.jpeg -c path/to/yolo.cfg -w path/to/yolo
 - c or --config: Path to the YOLO configuration file (e.g., yolov3.cfg).
 - w or --weights: Path to the YOLO pre-trained weights file (e.g., yolov3.weights).
 - cl or --classes: Path to the file containing class names (e.g., yolov3.txt).
+  
 **Files**
 - objdet.py: Python script for performing object detection using YOLO.
 - yolov3.cfg: YOLOv3 configuration file.
