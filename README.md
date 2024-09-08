@@ -1,7 +1,7 @@
 # YOLO Object Detection
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-This project utilizes the YOLO (You Only Look Once) object detection algorithm to detect and classify objects within images. The provided Python script uses YOLOv3 with pre-trained weights and configuration to draw bounding boxes around detected objects.
+- This project utilizes the YOLO (You Only Look Once) object detection algorithm to detect and classify objects within images. The provided Python script uses YOLOv3 with pre-trained weights and configuration to draw bounding boxes around detected objects.
 
 ## Table of Contents
 
