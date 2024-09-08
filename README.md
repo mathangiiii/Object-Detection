@@ -65,7 +65,7 @@ Invoke-WebRequest -Uri "https://pjreddie.com/media/files/yolov3.weights" -OutFil
 
 ## Proof of Concept
 
-[Video of Live Input Footage](https://drive.google.com/file/d/1NYw3qUR5ls4kRQBDCiF9f4NdSBRBNVVt/view?usp=sharing)
+[Video of Live Input Footage](https://drive.google.com/file/d/1jZ5z93IhXxR_wJhV6RnTEYzeazJjWEt1/view?usp=sharing)
 
 ## Contributors
 - **Mathangi N**: [mathanginarayanan2004@gmail.com](mailto:mathanginarayanan2004@gmail.com)
