@@ -23,9 +23,17 @@ This project utilizes the YOLO (You Only Look Once) object detection algorithm t
 python -m venv venv
 ```
 Activate the Virtual Environment
-```
+
 Windows:
-  \venv\Scripts\Activate
+```
+  .\venv\Scripts\Activate
+```
 macOS/Linux:
+```
   source venv/bin/activate
+```
+3. **Install Required Packages**
+Make sure you have opencv-python and numpy installed. You can install them using pip:
+```
+pip install opencv-python numpy
 ```
